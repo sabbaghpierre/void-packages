@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Proton Authenticator
+Exec=WEBKIT_DISABLE_DMABUF_RENDERER=1 ProtonAuthenticator
+Icon=proton-authenticator
+Type=Application
+Categories=Utility;Security;
+Comment=Two-factor authentication app by Proton
+StartupWMClass=proton-authenticator

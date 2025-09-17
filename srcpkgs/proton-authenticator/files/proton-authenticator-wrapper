@@ -1,0 +1,4 @@
+#!/bin/sh
+export LD_LIBRARY_PATH="/usr/lib:/usr/lib/x86_64-linux-gnu"
+export GBM_BACKENDS_PATH="/usr/lib/gbm"
+exec /usr/bin/ProtonAuthenticator "$@"
